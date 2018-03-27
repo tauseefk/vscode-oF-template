@@ -1,7 +1,5 @@
-![Screenshot](ss.png)
-
-[![Build Status](https://travis-ci.org/hiroMTB/vscode_oF.svg?branch=master)](https://travis-ci.org/hiroMTB/vscode_oF)
-[![Build status](https://ci.appveyor.com/api/projects/status/gp66lfcygw2mtnld/branch/master?svg=true)](https://ci.appveyor.com/project/hiroMTB/vscode-of/branch/master)
+[![Build Status](https://travis-ci.org/tauseefk/vscode-oF-template.svg?branch=master)](https://travis-ci.org/tauseefk/vscode-oF-template)
+[![Build status](https://ci.appveyor.com/api/projects/status/gp66lfcygw2mtnld/branch/master?svg=true)](https://ci.appveyor.com/project/tauseefk/vscode-oF-template/branch/master)
 
 # vscode_oF
 openFrameworks empty example for visual studio code.
